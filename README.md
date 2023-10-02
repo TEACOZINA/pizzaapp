@@ -1,2 +1,2 @@
 # pizzaapp
-pizza app to ordering pizza
+pizza app for ordering pizza
